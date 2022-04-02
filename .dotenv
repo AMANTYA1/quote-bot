@@ -1,5 +1,5 @@
 NODE_ENV=dev
-MONGODB_URI="mongodb+srv://Aman:Aman@cluster0.oioaw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority:27017/QuoteBot"
+MONGODB_URI="mongodb://localhost:27017/wuoiioo"
 BOT_TOKEN="5247120991:AAE5-Tcb4mqAcVAdEsccc_C7T12K8sG06mw"
 GROUP_ID="-1001727672197"
 EMOJI_DOMAIN="https://emojipedia.org/"
